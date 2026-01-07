@@ -1,0 +1,1923 @@
+{
+  "valid_entries": [
+    {
+      "original_phrase": "be expected to",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "verb phrase",
+          "meaning_cn": "被期望做某事，通常表示责任或预测",
+          "scenario": "Formal/General",
+          "examples": [
+            {
+              "en": "Employees are expected to arrive on time for meetings.",
+              "cn": "员工应准时参加会议。"
+            },
+            {
+              "en": "The project is expected to be completed by next month.",
+              "cn": "该项目预计下个月完成。"
+            }
+          ]
+        },
+        {
+          "part_of_speech": "verb phrase",
+          "meaning_cn": "被认为很可能发生",
+          "scenario": "Predictions",
+          "examples": [
+            {
+              "en": "She is expected to win the election based on recent polls.",
+              "cn": "根据最近的民调，她很可能赢得选举。"
+            },
+            {
+              "en": "Rain is expected to start in the afternoon.",
+              "cn": "预计下午会开始下雨。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "come along",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "一起来，加入",
+          "scenario": "Invitations",
+          "examples": [
+            {
+              "en": "Why don't you come along to the party with us?",
+              "cn": "你为什么不和我们一起来参加派对？"
+            },
+            {
+              "en": "He decided to come along on the hiking trip.",
+              "cn": "他决定一起来参加徒步旅行。"
+            }
+          ]
+        },
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "进展，发展",
+          "scenario": "Progress",
+          "examples": [
+            {
+              "en": "The new project is coming along nicely.",
+              "cn": "新项目进展顺利。"
+            },
+            {
+              "en": "How is your recovery coming along after the surgery?",
+              "cn": "手术后你的恢复情况如何？"
+            }
+          ]
+        },
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "出现，发生",
+          "scenario": "Occurrences",
+          "examples": [
+            {
+              "en": "A great opportunity came along, and she took it.",
+              "cn": "一个绝佳的机会出现了，她抓住了它。"
+            },
+            {
+              "en": "If a better job comes along, I might consider switching.",
+              "cn": "如果有更好的工作出现，我可能会考虑换工作。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "keep a secret",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "verb phrase",
+          "meaning_cn": "保守秘密",
+          "scenario": "General",
+          "examples": [
+            {
+              "en": "Can you keep a secret? I'm planning a surprise party.",
+              "cn": "你能保守秘密吗？我在计划一个惊喜派对。"
+            },
+            {
+              "en": "She promised to keep the secret about the company merger.",
+              "cn": "她承诺保守公司合并的秘密。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "once again",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "adverbial phrase",
+          "meaning_cn": "再一次，又一次",
+          "scenario": "Repetition",
+          "examples": [
+            {
+              "en": "Once again, he forgot to lock the door when leaving.",
+              "cn": "他又一次忘记锁门就离开了。"
+            },
+            {
+              "en": "The team won the championship once again this year.",
+              "cn": "该队今年再次赢得了冠军。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "play down",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "淡化，轻描淡写",
+          "scenario": "Communication",
+          "examples": [
+            {
+              "en": "The company tried to play down the significance of the data breach.",
+              "cn": "公司试图淡化数据泄露的重要性。"
+            },
+            {
+              "en": "He played down his role in the project's success.",
+              "cn": "他轻描淡写了自己在项目成功中的作用。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "on the spot",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "idiom",
+          "meaning_cn": "当场，立即",
+          "scenario": "Immediate Action",
+          "examples": [
+            {
+              "en": "The manager made the decision on the spot without consulting anyone.",
+              "cn": "经理当场做出了决定，没有咨询任何人。"
+            },
+            {
+              "en": "She was hired on the spot after the interview.",
+              "cn": "面试后她当场被录用了。"
+            }
+          ]
+        },
+        {
+          "part_of_speech": "idiom",
+          "meaning_cn": "在现场",
+          "scenario": "Location",
+          "examples": [
+            {
+              "en": "Reporters were on the spot to cover the breaking news.",
+              "cn": "记者在现场报道突发新闻。"
+            },
+            {
+              "en": "Emergency services arrived on the spot within minutes.",
+              "cn": "紧急服务在几分钟内到达了现场。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "basic element",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "noun phrase",
+          "meaning_cn": "基本元素，基础成分",
+          "scenario": "Science/General",
+          "examples": [
+            {
+              "en": "Carbon is a basic element in organic chemistry.",
+              "cn": "碳是有机化学中的基本元素。"
+            },
+            {
+              "en": "Trust is a basic element of any strong relationship.",
+              "cn": "信任是任何牢固关系的基本元素。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "take ... for instance",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrase",
+          "meaning_cn": "以...为例",
+          "scenario": "Examples/Explanation",
+          "examples": [
+            {
+              "en": "Take Japan for instance, it has a very efficient public transportation system.",
+              "cn": "以日本为例，它拥有非常高效的公共交通系统。"
+            },
+            {
+              "en": "Take this case for instance, it illustrates the importance of cybersecurity.",
+              "cn": "以这个案例为例，它说明了网络安全的重要性。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "blood sample",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "noun phrase",
+          "meaning_cn": "血液样本",
+          "scenario": "Medical",
+          "examples": [
+            {
+              "en": "The doctor took a blood sample to check for infections.",
+              "cn": "医生取了血液样本来检查感染。"
+            },
+            {
+              "en": "A blood sample is required for the genetic testing.",
+              "cn": "基因检测需要血液样本。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "be urged to",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "verb phrase",
+          "meaning_cn": "被敦促做某事",
+          "scenario": "Formal Requests",
+          "examples": [
+            {
+              "en": "Citizens are urged to evacuate due to the approaching hurricane.",
+              "cn": "由于飓风临近，市民被敦促撤离。"
+            },
+            {
+              "en": "Employees are urged to complete the training by the end of the week.",
+              "cn": "员工被敦促在本周末前完成培训。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "thirst for",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "verb phrase",
+          "meaning_cn": "渴望，渴求",
+          "scenario": "Desire",
+          "examples": [
+            {
+              "en": "He has a thirst for knowledge and reads constantly.",
+              "cn": "他渴望知识，不断阅读。"
+            },
+            {
+              "en": "The team has a thirst for victory after last season's loss.",
+              "cn": "在上赛季失利后，该队渴望胜利。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "let go of",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "放开，释放",
+          "scenario": "Physical/Emotional",
+          "examples": [
+            {
+              "en": "She had to let go of the rope to avoid falling.",
+              "cn": "她不得不放开绳子以避免摔倒。"
+            },
+            {
+              "en": "It's time to let go of past grudges and move on.",
+              "cn": "是时候放下过去的怨恨，继续前进了。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "link up with",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "与...连接或联合",
+          "scenario": "Networking/Collaboration",
+          "examples": [
+            {
+              "en": "Our company plans to link up with a tech startup for innovation.",
+              "cn": "我们公司计划与一家科技初创公司联合进行创新。"
+            },
+            {
+              "en": "The two highways link up with each other at the interchange.",
+              "cn": "两条高速公路在立交桥处相互连接。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "sleep off",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "通过睡觉来恢复",
+          "scenario": "Recovery",
+          "examples": [
+            {
+              "en": "After the long flight, he needed to sleep off the jet lag.",
+              "cn": "长途飞行后，他需要通过睡觉来倒时差。"
+            },
+            {
+              "en": "She decided to sleep off her headache instead of taking medicine.",
+              "cn": "她决定通过睡觉来缓解头痛，而不是吃药。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "keep an eye out",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "idiom",
+          "meaning_cn": "留意，注意",
+          "scenario": "Vigilance",
+          "examples": [
+            {
+              "en": "Keep an eye out for any suspicious activity in the neighborhood.",
+              "cn": "留意社区内任何可疑活动。"
+            },
+            {
+              "en": "I'll keep an eye out for your package and let you know when it arrives.",
+              "cn": "我会留意你的包裹，到达时通知你。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "have one's hands full",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "idiom",
+          "meaning_cn": "忙得不可开交",
+          "scenario": "Busyness",
+          "examples": [
+            {
+              "en": "With three young children, she always has her hands full.",
+              "cn": "有三个年幼的孩子，她总是忙得不可开交。"
+            },
+            {
+              "en": "During the holiday season, retail workers have their hands full with customers.",
+              "cn": "假日季节期间，零售员工因顾客而忙得不可开交。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "take aback",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "使吃惊，使震惊",
+          "scenario": "General",
+          "examples": [
+            {
+              "en": "The sudden news took me aback.",
+              "cn": "突如其来的消息让我大吃一惊。"
+            },
+            {
+              "en": "Her harsh words took everyone aback at the meeting.",
+              "cn": "她尖刻的言辞让会议上所有人都震惊了。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "to the letter",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "idiom",
+          "meaning_cn": "严格按照字面意思，丝毫不差",
+          "scenario": "Formal/Instructions",
+          "examples": [
+            {
+              "en": "Follow the recipe to the letter for best results.",
+              "cn": "严格按照食谱操作以获得最佳效果。"
+            },
+            {
+              "en": "He executed the plan to the letter, leaving no room for error.",
+              "cn": "他一丝不苟地执行了计划，没有留下任何错误的空间。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "target of envy",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "noun phrase",
+          "meaning_cn": "嫉妒的对象",
+          "scenario": "Social/Emotional",
+          "examples": [
+            {
+              "en": "Her promotion made her the target of envy among her colleagues.",
+              "cn": "她的晋升使她成为同事们嫉妒的对象。"
+            },
+            {
+              "en": "His luxurious lifestyle is a target of envy for many.",
+              "cn": "他奢华的生活方式是许多人嫉妒的对象。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "be supposed to do",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "应该做，被期望做",
+          "scenario": "Obligation/Expectation",
+          "examples": [
+            {
+              "en": "You are supposed to submit the report by Friday.",
+              "cn": "你应该在周五前提交报告。"
+            },
+            {
+              "en": "He was supposed to call me yesterday, but he forgot.",
+              "cn": "他昨天应该给我打电话的，但他忘了。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "slog through",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "艰难地完成，费力地处理",
+          "scenario": "Effort/Work",
+          "examples": [
+            {
+              "en": "We had to slog through hundreds of pages of documentation.",
+              "cn": "我们不得不费力地处理数百页的文档。"
+            },
+            {
+              "en": "She slogged through the muddy trail to reach the summit.",
+              "cn": "她艰难地穿过泥泞的小径到达山顶。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "the same ... that",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrase",
+          "meaning_cn": "与...相同的那个",
+          "scenario": "Comparison/Identification",
+          "examples": [
+            {
+              "en": "This is the same book that I read last year.",
+              "cn": "这就是我去年读的那本书。"
+            },
+            {
+              "en": "He lives in the same city that I grew up in.",
+              "cn": "他住在我长大的那个城市。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "all things considered",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "idiom",
+          "meaning_cn": "综合考虑，总的来说",
+          "scenario": "Evaluation/Decision-making",
+          "examples": [
+            {
+              "en": "All things considered, it was a successful event.",
+              "cn": "总的来说，这是一次成功的活动。"
+            },
+            {
+              "en": "All things considered, I think we should accept the offer.",
+              "cn": "综合考虑，我认为我们应该接受这个提议。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "give rise to sth.",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "引起，导致",
+          "scenario": "Causation",
+          "examples": [
+            {
+              "en": "The new policy gave rise to widespread protests.",
+              "cn": "新政策引起了广泛的抗议。"
+            },
+            {
+              "en": "Poor communication can give rise to misunderstandings.",
+              "cn": "沟通不畅可能导致误解。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "broaden one's horizon",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "idiom",
+          "meaning_cn": "开阔眼界，增长见识",
+          "scenario": "Personal Development",
+          "examples": [
+            {
+              "en": "Traveling abroad can help broaden your horizons.",
+              "cn": "出国旅行有助于开阔你的眼界。"
+            },
+            {
+              "en": "Reading diverse books broadens one's horizons.",
+              "cn": "阅读多样化的书籍可以增长见识。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "as tough as nails",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "simile",
+          "meaning_cn": "非常坚强，坚韧不拔",
+          "scenario": "Character/Resilience",
+          "examples": [
+            {
+              "en": "She's as tough as nails and never gives up.",
+              "cn": "她非常坚强，从不放弃。"
+            },
+            {
+              "en": "The old soldier was as tough as nails, surviving many hardships.",
+              "cn": "那位老兵坚韧不拔，经历了许多艰难困苦。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "plant trees",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "verb phrase",
+          "meaning_cn": "植树",
+          "scenario": "Environmental/Activity",
+          "examples": [
+            {
+              "en": "We plant trees every spring to help the environment.",
+              "cn": "我们每年春天植树以帮助环境。"
+            },
+            {
+              "en": "The community organized an event to plant trees in the park.",
+              "cn": "社区组织了一次在公园植树的活动。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "cancel out",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "抵消，使无效",
+          "scenario": "Mathematics/Effect",
+          "examples": [
+            {
+              "en": "The positive and negative charges cancel each other out.",
+              "cn": "正负电荷相互抵消。"
+            },
+            {
+              "en": "His good deeds cancel out his past mistakes.",
+              "cn": "他的善行抵消了他过去的错误。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "have one's heart miss a beat",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "idiom",
+          "meaning_cn": "心跳漏了一拍，形容惊讶或紧张",
+          "scenario": "Emotional/Reaction",
+          "examples": [
+            {
+              "en": "When I saw the surprise, my heart missed a beat.",
+              "cn": "当我看到惊喜时，我的心跳漏了一拍。"
+            },
+            {
+              "en": "Her sudden appearance made his heart miss a beat.",
+              "cn": "她的突然出现让他的心漏跳了一拍。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "be true of",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrase",
+          "meaning_cn": "适用于，对...成立",
+          "scenario": "General/Logic",
+          "examples": [
+            {
+              "en": "This rule is true of all employees.",
+              "cn": "这条规则适用于所有员工。"
+            },
+            {
+              "en": "What is true of one case may not be true of another.",
+              "cn": "适用于一种情况的可能不适用于另一种。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "go great guns",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "idiom",
+          "meaning_cn": "进展迅速，全力以赴",
+          "scenario": "Progress/Effort",
+          "examples": [
+            {
+              "en": "The project is going great guns and should finish on time.",
+              "cn": "项目进展迅速，应该能按时完成。"
+            },
+            {
+              "en": "After the initial delay, the team went great guns to catch up.",
+              "cn": "在最初的延迟之后，团队全力以赴赶上了进度。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "centre on",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "以...为中心，聚焦于",
+          "scenario": "Focus/Theme",
+          "examples": [
+            {
+              "en": "The discussion centred on the new policy changes.",
+              "cn": "讨论聚焦于新的政策变化。"
+            },
+            {
+              "en": "Her research centres on environmental sustainability.",
+              "cn": "她的研究以环境可持续性为中心。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "fight for",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "为...而战，争取",
+          "scenario": "Conflict/Advocacy",
+          "examples": [
+            {
+              "en": "They fought for their rights in the court.",
+              "cn": "他们在法庭上为自己的权利而战。"
+            },
+            {
+              "en": "She fights for equality in the workplace.",
+              "cn": "她为工作场所的平等而奋斗。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "by the day",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrase",
+          "meaning_cn": "逐日地，一天天地",
+          "scenario": "Time/Change",
+          "examples": [
+            {
+              "en": "The situation is improving by the day.",
+              "cn": "情况一天天在改善。"
+            },
+            {
+              "en": "Her health is deteriorating by the day.",
+              "cn": "她的健康状况逐日恶化。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "by oneself",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrase",
+          "meaning_cn": "独自地，单独地",
+          "scenario": "Independence",
+          "examples": [
+            {
+              "en": "She prefers to work by herself in the quiet office.",
+              "cn": "她更喜欢在安静的办公室里独自工作。"
+            },
+            {
+              "en": "He learned to cook by himself through online tutorials.",
+              "cn": "他通过在线教程自学烹饪。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "animal experiments",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "noun phrase",
+          "meaning_cn": "动物实验",
+          "scenario": "Scientific/Medical",
+          "examples": [
+            {
+              "en": "Animal experiments are conducted to test the safety of new drugs.",
+              "cn": "进行动物实验是为了测试新药的安全性。"
+            },
+            {
+              "en": "The university has strict ethical guidelines for animal experiments.",
+              "cn": "这所大学对动物实验有严格的伦理准则。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "get round",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "规避，绕过",
+          "scenario": "General",
+          "examples": [
+            {
+              "en": "He tried to get round the rules by finding a loophole.",
+              "cn": "他试图通过寻找漏洞来规避规则。"
+            },
+            {
+              "en": "We can get round the traffic by taking the back roads.",
+              "cn": "我们可以走小路来避开交通拥堵。"
+            }
+          ]
+        },
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "说服，哄骗",
+          "scenario": "Informal",
+          "examples": [
+            {
+              "en": "She managed to get round her parents to let her go to the party.",
+              "cn": "她设法说服了父母让她去参加派对。"
+            },
+            {
+              "en": "He always gets round his boss with flattery.",
+              "cn": "他总是用奉承来哄骗他的老板。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "run a risk of sth.",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "verb phrase",
+          "meaning_cn": "冒...的风险",
+          "scenario": "General",
+          "examples": [
+            {
+              "en": "If you don't wear a helmet, you run a risk of serious injury.",
+              "cn": "如果你不戴头盔，就有严重受伤的风险。"
+            },
+            {
+              "en": "Investing in startups runs a risk of losing money.",
+              "cn": "投资初创公司有亏钱的风险。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "beyond expression",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "idiom",
+          "meaning_cn": "难以言表，无法形容",
+          "scenario": "Literary/Emotional",
+          "examples": [
+            {
+              "en": "Her beauty was beyond expression, leaving everyone speechless.",
+              "cn": "她的美难以言表，让所有人都哑口无言。"
+            },
+            {
+              "en": "The joy he felt at the news was beyond expression.",
+              "cn": "他听到这个消息时的喜悦无法形容。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "portion out",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "分配，分成份额",
+          "scenario": "General",
+          "examples": [
+            {
+              "en": "She portioned out the cake equally among the children.",
+              "cn": "她把蛋糕平均分配给了孩子们。"
+            },
+            {
+              "en": "We need to portion out the supplies for the week.",
+              "cn": "我们需要把这周的物资分配好。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "get along with ...",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "与...相处融洽",
+          "scenario": "Social",
+          "examples": [
+            {
+              "en": "She gets along well with her colleagues at work.",
+              "cn": "她和同事在工作中相处得很好。"
+            },
+            {
+              "en": "It's important to get along with your neighbors.",
+              "cn": "与邻居相处融洽很重要。"
+            }
+          ]
+        },
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "进展，进行",
+          "scenario": "General",
+          "examples": [
+            {
+              "en": "How are you getting along with your new project?",
+              "cn": "你的新项目进展如何？"
+            },
+            {
+              "en": "He's getting along fine in his new school.",
+              "cn": "他在新学校进行得很顺利。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "such as",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrase",
+          "meaning_cn": "例如，比如",
+          "scenario": "General",
+          "examples": [
+            {
+              "en": "I enjoy outdoor activities, such as hiking and cycling.",
+              "cn": "我喜欢户外活动，比如徒步和骑自行车。"
+            },
+            {
+              "en": "Many fruits, such as apples and oranges, are rich in vitamin C.",
+              "cn": "许多水果，例如苹果和橙子，富含维生素C。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "city planning",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "noun phrase",
+          "meaning_cn": "城市规划",
+          "scenario": "Urban Development",
+          "examples": [
+            {
+              "en": "Good city planning can reduce traffic congestion.",
+              "cn": "良好的城市规划可以减少交通拥堵。"
+            },
+            {
+              "en": "She studied city planning at university.",
+              "cn": "她在大学学习了城市规划。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "non-stop flight",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "noun phrase",
+          "meaning_cn": "直飞航班，不间断飞行",
+          "scenario": "Travel",
+          "examples": [
+            {
+              "en": "We took a non-stop flight from New York to London.",
+              "cn": "我们乘坐了从纽约到伦敦的直飞航班。"
+            },
+            {
+              "en": "Non-stop flights are more convenient but often more expensive.",
+              "cn": "直飞航班更方便，但通常更贵。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "put one's nose out of joint",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "idiom",
+          "meaning_cn": "使某人恼火或嫉妒",
+          "scenario": "Informal",
+          "examples": [
+            {
+              "en": "Her promotion really put his nose out of joint.",
+              "cn": "她的晋升真的让他很恼火。"
+            },
+            {
+              "en": "Winning the award put a few noses out of joint among the competitors.",
+              "cn": "赢得这个奖项让一些竞争者感到嫉妒。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "at a premium",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "idiom",
+          "meaning_cn": "以高价，稀缺的",
+          "scenario": "Business/Economics",
+          "examples": [
+            {
+              "en": "During the shortage, fresh water was sold at a premium.",
+              "cn": "短缺期间，淡水以高价出售。"
+            },
+            {
+              "en": "Parking spaces in the city center are at a premium.",
+              "cn": "市中心的停车位非常稀缺。"
+            }
+          ]
+        },
+        {
+          "part_of_speech": "idiom",
+          "meaning_cn": "高度重视",
+          "scenario": "General",
+          "examples": [
+            {
+              "en": "In this company, honesty is held at a premium.",
+              "cn": "在这家公司，诚实受到高度重视。"
+            },
+            {
+              "en": "Time is at a premium when you have a tight deadline.",
+              "cn": "当截止日期紧迫时，时间非常宝贵。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "go out of one's way",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "idiom",
+          "meaning_cn": "特意，不辞辛劳",
+          "scenario": "General",
+          "examples": [
+            {
+              "en": "She went out of her way to help me move house.",
+              "cn": "她特意来帮我搬家。"
+            },
+            {
+              "en": "He went out of his way to make the guests feel welcome.",
+              "cn": "他不辞辛劳地让客人们感到受欢迎。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "faint chance",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "noun phrase",
+          "meaning_cn": "微小的机会，渺茫的希望",
+          "scenario": "General",
+          "examples": [
+            {
+              "en": "There's only a faint chance that it will rain tomorrow.",
+              "cn": "明天下雨的机会很渺茫。"
+            },
+            {
+              "en": "He has a faint chance of winning the competition.",
+              "cn": "他赢得比赛的机会很小。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "exhaust a subject",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "verb phrase",
+          "meaning_cn": "详尽讨论，穷尽一个话题",
+          "scenario": "Academic/General",
+          "examples": [
+            {
+              "en": "The professor exhausted the subject in his three-hour lecture.",
+              "cn": "教授在三小时的讲座中详尽讨论了这个话题。"
+            },
+            {
+              "en": "We've exhausted this subject; let's move on to the next one.",
+              "cn": "我们已经穷尽了这个话题，让我们继续下一个。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "try for",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "试图获得，争取",
+          "scenario": "General",
+          "examples": [
+            {
+              "en": "He's trying for a promotion at work.",
+              "cn": "他正在工作中争取晋升。"
+            },
+            {
+              "en": "She decided to try for a scholarship to study abroad.",
+              "cn": "她决定争取奖学金出国留学。"
+            }
+          ]
+        },
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "尝试做某事",
+          "scenario": "General",
+          "examples": [
+            {
+              "en": "I'll try for a better score on the next test.",
+              "cn": "我会在下次考试中尝试取得更好的分数。"
+            },
+            {
+              "en": "They're trying for a baby after years of marriage.",
+              "cn": "结婚多年后，他们正在尝试要孩子。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "do an about face on sth.",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "idiom",
+          "meaning_cn": "彻底改变立场或主意",
+          "scenario": "General",
+          "examples": [
+            {
+              "en": "The company did an about face on its environmental policy after public pressure.",
+              "cn": "在公众压力下，这家公司彻底改变了其环境政策。"
+            },
+            {
+              "en": "He did an about face on his decision to quit his job.",
+              "cn": "他彻底改变了辞职的决定。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "areas of knowledge",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "noun phrase",
+          "meaning_cn": "知识领域",
+          "scenario": "Academic",
+          "examples": [
+            {
+              "en": "Mathematics and history are different areas of knowledge.",
+              "cn": "数学和历史是不同的知识领域。"
+            },
+            {
+              "en": "The course covers various areas of knowledge in science.",
+              "cn": "这门课程涵盖了科学中的多个知识领域。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "take sth. with a grain of salt",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "idiom",
+          "meaning_cn": "对某事持保留态度，半信半疑",
+          "scenario": "General",
+          "examples": [
+            {
+              "en": "You should take his advice with a grain of salt; he's not an expert.",
+              "cn": "你应该对他的建议持保留态度，他不是专家。"
+            },
+            {
+              "en": "I take rumors with a grain of salt until I see evidence.",
+              "cn": "我对谣言半信半疑，直到看到证据。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "not really",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrase",
+          "meaning_cn": "不完全是，不太",
+          "scenario": "General",
+          "examples": [
+            {
+              "en": "Are you hungry? Not really, I just ate.",
+              "cn": "你饿吗？不太饿，我刚吃过。"
+            },
+            {
+              "en": "Do you like the movie? Not really, it was too slow.",
+              "cn": "你喜欢这部电影吗？不完全是，它太慢了。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "stand up for",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "支持，维护，为...辩护",
+          "scenario": "General",
+          "examples": [
+            {
+              "en": "She always stands up for her friends when they're being bullied.",
+              "cn": "当她的朋友被欺负时，她总是站出来维护他们。"
+            },
+            {
+              "en": "We must stand up for our rights in this negotiation.",
+              "cn": "在这次谈判中，我们必须维护自己的权利。"
+            }
+          ]
+        },
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "坚持（原则或信念）",
+          "scenario": "Moral/Ethical",
+          "examples": [
+            {
+              "en": "He stood up for his principles even when it was unpopular.",
+              "cn": "即使不受欢迎，他也坚持自己的原则。"
+            },
+            {
+              "en": "It's important to stand up for what you believe in.",
+              "cn": "坚持自己的信念很重要。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "in praise of",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "prepositional phrase",
+          "meaning_cn": "赞扬，歌颂",
+          "scenario": "Literary/Formal",
+          "examples": [
+            {
+              "en": "The poem was written in praise of nature's beauty.",
+              "cn": "这首诗是为了歌颂大自然的美丽而写的。"
+            },
+            {
+              "en": "He spoke in praise of her dedication to the project.",
+              "cn": "他发言赞扬了她对项目的奉献精神。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "be on the increase",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrase",
+          "meaning_cn": "在增加，在上升",
+          "scenario": "Statistical/Trend",
+          "examples": [
+            {
+              "en": "Crime rates are on the increase in some urban areas.",
+              "cn": "一些城市地区的犯罪率正在上升。"
+            },
+            {
+              "en": "Demand for renewable energy is on the increase globally.",
+              "cn": "全球对可再生能源的需求正在增加。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "parenting skills",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "noun phrase",
+          "meaning_cn": "育儿技能，抚养孩子的能力",
+          "scenario": "Family/Psychology",
+          "examples": [
+            {
+              "en": "Good parenting skills include patience and effective communication.",
+              "cn": "良好的育儿技能包括耐心和有效的沟通。"
+            },
+            {
+              "en": "She attended a workshop to improve her parenting skills.",
+              "cn": "她参加了一个研讨会来提高她的育儿技能。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "punch out",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "打卡下班",
+          "scenario": "Work/Informal",
+          "examples": [
+            {
+              "en": "I usually punch out at 5 PM after finishing my tasks.",
+              "cn": "我通常在完成任务后下午5点打卡下班。"
+            },
+            {
+              "en": "Don't forget to punch out before you leave the office.",
+              "cn": "离开办公室前别忘了打卡下班。"
+            }
+          ]
+        },
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "击倒（尤指在拳击中）",
+          "scenario": "Sports",
+          "examples": [
+            {
+              "en": "The boxer managed to punch out his opponent in the third round.",
+              "cn": "这位拳击手在第三回合击倒了对手。"
+            },
+            {
+              "en": "He punched out the attacker with a single blow.",
+              "cn": "他一拳击倒了袭击者。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "get worked up over sth.",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "为某事激动或生气",
+          "scenario": "Emotional/Informal",
+          "examples": [
+            {
+              "en": "Don't get worked up over such a small mistake.",
+              "cn": "别为这么小的错误生气。"
+            },
+            {
+              "en": "She got worked up over the upcoming exam.",
+              "cn": "她对即将到来的考试感到非常激动。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "touch upon",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "提及，涉及",
+          "scenario": "Academic/Conversational",
+          "examples": [
+            {
+              "en": "The lecture touched upon several key issues in economics.",
+              "cn": "这次讲座涉及了经济学中的几个关键问题。"
+            },
+            {
+              "en": "He only touched upon the topic briefly during the meeting.",
+              "cn": "他在会议上只是简要地提及了这个话题。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "choke off",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "阻止，抑制",
+          "scenario": "Economic/General",
+          "examples": [
+            {
+              "en": "The new regulations could choke off innovation in the industry.",
+              "cn": "新规定可能会抑制该行业的创新。"
+            },
+            {
+              "en": "High interest rates are choking off consumer spending.",
+              "cn": "高利率正在抑制消费者支出。"
+            }
+          ]
+        },
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "使窒息或停止（如气流）",
+          "scenario": "Literal",
+          "examples": [
+            {
+              "en": "The dust choked off the air supply in the tunnel.",
+              "cn": "灰尘使隧道中的空气供应停止了。"
+            },
+            {
+              "en": "She choked off a sob before speaking.",
+              "cn": "她在说话前抑制住了抽泣。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "buy sb. out",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "买断某人的股份或权益",
+          "scenario": "Business",
+          "examples": [
+            {
+              "en": "The company decided to buy out its minority shareholders.",
+              "cn": "公司决定买断少数股东的股份。"
+            },
+            {
+              "en": "He was bought out of the partnership for a large sum.",
+              "cn": "他被用一大笔钱买断了合伙权益。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "generally speaking",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "adverbial phrase",
+          "meaning_cn": "一般来说，总体而言",
+          "scenario": "General",
+          "examples": [
+            {
+              "en": "Generally speaking, exercise is good for your health.",
+              "cn": "一般来说，锻炼对健康有益。"
+            },
+            {
+              "en": "Generally speaking, the project was a success.",
+              "cn": "总体而言，这个项目是成功的。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "get up enough nerve",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrase",
+          "meaning_cn": "鼓起足够的勇气",
+          "scenario": "Emotional/Informal",
+          "examples": [
+            {
+              "en": "It took him a while to get up enough nerve to ask her out.",
+              "cn": "他花了一段时间才鼓起足够的勇气约她出去。"
+            },
+            {
+              "en": "She finally got up enough nerve to speak in public.",
+              "cn": "她终于鼓起足够的勇气在公众场合发言。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "drive sth. into the ground",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "过度使用或破坏某物",
+          "scenario": "Informal",
+          "examples": [
+            {
+              "en": "He drove the joke into the ground by repeating it too many times.",
+              "cn": "他重复太多次，把这个笑话讲烂了。"
+            },
+            {
+              "en": "Poor management drove the company into the ground.",
+              "cn": "糟糕的管理把公司搞垮了。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "sort out",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "整理，解决",
+          "scenario": "General",
+          "examples": [
+            {
+              "en": "We need to sort out these files before the audit.",
+              "cn": "我们需要在审计前整理好这些文件。"
+            },
+            {
+              "en": "They sorted out their differences after a long discussion.",
+              "cn": "经过长时间讨论，他们解决了分歧。"
+            }
+          ]
+        },
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "分类，区分",
+          "scenario": "Organizational",
+          "examples": [
+            {
+              "en": "Can you help me sort out the recyclables from the trash?",
+              "cn": "你能帮我从垃圾中分出可回收物吗？"
+            },
+            {
+              "en": "She sorted out the clothes by color.",
+              "cn": "她按颜色分类了衣服。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "round the corner",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrase",
+          "meaning_cn": "即将发生，在附近",
+          "scenario": "Idiomatic",
+          "examples": [
+            {
+              "en": "Better times are just round the corner.",
+              "cn": "更好的时光即将到来。"
+            },
+            {
+              "en": "There's a grocery store round the corner from here.",
+              "cn": "从这里拐角处有一家杂货店。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "reside with",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "与...同住",
+          "scenario": "Formal/Legal",
+          "examples": [
+            {
+              "en": "The children reside with their mother after the divorce.",
+              "cn": "离婚后，孩子们与母亲同住。"
+            },
+            {
+              "en": "He currently resides with his grandparents.",
+              "cn": "他目前与祖父母同住。"
+            }
+          ]
+        },
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "存在于，属于（责任或权力）",
+          "scenario": "Legal/Formal",
+          "examples": [
+            {
+              "en": "The final decision resides with the board of directors.",
+              "cn": "最终决定权属于董事会。"
+            },
+            {
+              "en": "Authority in this matter resides with the government.",
+              "cn": "这件事的权力属于政府。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "turn ... over",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "翻转，移交",
+          "scenario": "General",
+          "examples": [
+            {
+              "en": "Please turn the page over to continue reading.",
+              "cn": "请翻到下一页继续阅读。"
+            },
+            {
+              "en": "He turned over the documents to the police.",
+              "cn": "他把文件移交给了警方。"
+            }
+          ]
+        },
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "营业额达到",
+          "scenario": "Business",
+          "examples": [
+            {
+              "en": "The company turns over millions of dollars each year.",
+              "cn": "这家公司每年的营业额达到数百万美元。"
+            },
+            {
+              "en": "They aim to turn over a profit by the end of the quarter.",
+              "cn": "他们的目标是在本季度末实现盈利。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "hold sb. down",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "压制，限制",
+          "scenario": "General",
+          "examples": [
+            {
+              "en": "The oppressive regime held down any form of dissent.",
+              "cn": "压迫性政权压制了任何形式的异议。"
+            },
+            {
+              "en": "High costs are holding down consumer spending.",
+              "cn": "高成本限制了消费者支出。"
+            }
+          ]
+        },
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "使保持低位或稳定",
+          "scenario": "Economic",
+          "examples": [
+            {
+              "en": "The central bank is trying to hold down inflation.",
+              "cn": "中央银行正试图抑制通货膨胀。"
+            },
+            {
+              "en": "They held down prices during the sale.",
+              "cn": "他们在促销期间保持了低价。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "be similar",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrase",
+          "meaning_cn": "相似，类似",
+          "scenario": "General",
+          "examples": [
+            {
+              "en": "Their opinions are similar on this issue.",
+              "cn": "他们在这个问题上的意见相似。"
+            },
+            {
+              "en": "The two designs are very similar in appearance.",
+              "cn": "这两种设计在外观上非常相似。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "be furnished with",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrase",
+          "meaning_cn": "配备有，装饰有",
+          "scenario": "Real Estate/General",
+          "examples": [
+            {
+              "en": "The apartment is furnished with modern appliances.",
+              "cn": "这套公寓配备有现代电器。"
+            },
+            {
+              "en": "The room was furnished with antique furniture.",
+              "cn": "这个房间装饰有古董家具。"
+            }
+          ]
+        },
+        {
+          "part_of_speech": "phrase",
+          "meaning_cn": "提供，供应",
+          "scenario": "Formal",
+          "examples": [
+            {
+              "en": "The report is furnished with detailed statistics.",
+              "cn": "这份报告提供了详细的统计数据。"
+            },
+            {
+              "en": "He was furnished with all the necessary tools for the job.",
+              "cn": "他获得了这项工作所需的所有必要工具。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "keep from",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "阻止或避免做某事",
+          "scenario": "General",
+          "examples": [
+            {
+              "en": "She tried to keep from laughing during the serious meeting.",
+              "cn": "在严肃的会议上，她努力忍住不笑。"
+            },
+            {
+              "en": "He kept from eating junk food to improve his health.",
+              "cn": "他避免吃垃圾食品以改善健康。"
+            }
+          ]
+        },
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "隐瞒或保密",
+          "scenario": "General",
+          "examples": [
+            {
+              "en": "They kept the surprise party from her until the last moment.",
+              "cn": "他们对她隐瞒了惊喜派对，直到最后一刻。"
+            },
+            {
+              "en": "He kept the bad news from his family to spare them worry.",
+              "cn": "他向家人隐瞒了坏消息，以免他们担心。"
+            }
+          ]
+        },
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "防止或保护免受伤害",
+          "scenario": "General",
+          "examples": [
+            {
+              "en": "The fence keeps the children from wandering into the street.",
+              "cn": "栅栏防止孩子们跑到街上去。"
+            },
+            {
+              "en": "Wearing sunscreen keeps your skin from getting sunburned.",
+              "cn": "涂防晒霜可以保护皮肤不被晒伤。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_phrase": "make one's way to",
+      "is_valid_english": true,
+      "definitions": [
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "前往或走向某个地方",
+          "scenario": "General",
+          "examples": [
+            {
+              "en": "After the concert, we made our way to the nearest restaurant.",
+              "cn": "音乐会结束后，我们前往最近的餐厅。"
+            },
+            {
+              "en": "She made her way to the airport despite the heavy traffic.",
+              "cn": "尽管交通拥堵，她还是设法赶到了机场。"
+            }
+          ]
+        },
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "努力前进或取得进展",
+          "scenario": "General",
+          "examples": [
+            {
+              "en": "He made his way to the top of the company through hard work.",
+              "cn": "通过努力工作，他晋升到了公司的最高层。"
+            },
+            {
+              "en": "The small startup made its way to success in a competitive market.",
+              "cn": "这家小初创公司在竞争激烈的市场中取得了成功。"
+            }
+          ]
+        },
+        {
+          "part_of_speech": "phrasal verb",
+          "meaning_cn": "缓慢或艰难地移动",
+          "scenario": "General",
+          "examples": [
+            {
+              "en": "The hikers made their way to the summit through thick fog.",
+              "cn": "徒步旅行者在浓雾中缓慢地向山顶前进。"
+            },
+            {
+              "en": "The injured animal made its way to safety in the forest.",
+              "cn": "受伤的动物艰难地移动到森林中的安全地带。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "invalid_entries": [
+    {
+      "original_phrase": "debate on ... with",
+      "is_valid_english": false,
+      "correction_suggestion": "debate with ... on",
+      "definitions": []
+    },
+    {
+      "original_phrase": "err in",
+      "is_valid_english": false,
+      "correction_suggestion": "err on",
+      "definitions": []
+    },
+    {
+      "original_phrase": "numbers of",
+      "is_valid_english": false,
+      "correction_suggestion": "a number of",
+      "definitions": []
+    },
+    {
+      "original_phrase": "make one's acquaintance of sb.",
+      "is_valid_english": false,
+      "correction_suggestion": "make someone's acquaintance",
+      "definitions": []
+    },
+    {
+      "original_phrase": "have back at sb.",
+      "is_valid_english": false,
+      "correction_suggestion": "get back at sb.",
+      "definitions": []
+    },
+    {
+      "original_phrase": "make sth.",
+      "is_valid_english": false,
+      "correction_suggestion": "make something",
+      "definitions": []
+    },
+    {
+      "original_phrase": "have one's eye out",
+      "is_valid_english": false,
+      "correction_suggestion": "keep an eye out",
+      "definitions": []
+    }
+  ]
+}
